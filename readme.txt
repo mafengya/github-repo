@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git 1.
 New Branch.
+append content from dev
