@@ -6,3 +6,4 @@ Git 1.
 New Branch.
 append content from master.
 append content from dev
+bug chuli.
